@@ -1,4 +1,3 @@
-# sql-data-analytics-project
 # SQL Data Analytics Project
 
 ## Overview
